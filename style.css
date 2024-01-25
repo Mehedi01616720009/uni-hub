@@ -1,0 +1,11 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.modal-dialog {
+    max-width: 900px !important;
+}
+
+.border-red-600 {
+    border-color: rgb(220 38 38 / 1) !important;
+}
